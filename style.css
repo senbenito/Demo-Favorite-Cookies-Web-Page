@@ -10,14 +10,14 @@
 @import url('https://fonts.googleapis.com/css?family=Nunito');
 
 body {
-  background-color: #f58220;
+  background-color: #fff;
 }
 
 .pageContainer {
   width: 940px;
   margin: 20px auto 0 auto;
   padding: 20px;
-  background-color: #fff;
+  background-color: #f58220;
 }
 
 .imageContainer {
